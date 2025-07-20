@@ -1,0 +1,24 @@
+# Node.js
+/node_modules
+/dist
+/*.log
+
+# Python
+/venv/
+/__pycache__/
+/*.py[cod]
+*.egg-info/
+/build/
+/pip-wheel-metadata/
+
+# IDEs / Editors
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Environment overrides (se quiser)
+/.env.*local
